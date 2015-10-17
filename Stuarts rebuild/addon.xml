@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.stuarts-repo" name="Stuarts rebuild-reo" version="1.0.0" provider-name="Mr-Smith">
+<addon id="repository.stuarts-repo" name="Stuarts rebuild-repo" version="1.0.0" provider-name="stuart">
 	<extension point="xbmc.addon.repository" name="Stuarts Rebuild-repo">
 			<info compressed="false">https://raw.githubusercontent.com/stujohaigh/wizard555/master/Stuarts%20rebuild/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/stujohaigh/wizard555/master/Stuarts%20rebuild/addons.xml.md5</checksum>

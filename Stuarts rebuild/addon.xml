@@ -3,7 +3,7 @@
 	<extension point="xbmc.addon.repository" name="Stuarts Rebuild-repo">
 			<info compressed="false">https://raw.githubusercontent.com/stujohaigh/wizard555/master/Stuarts%20rebuild/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/stujohaigh/wizard555/master/Stuarts%20rebuild/addons.xml.md5</checksum>
-			<datadir zip="true">http://stuartsbuild.x10host.com</datadir>
+			<datadir zip="true">https://raw.githubusercontent.com/stujohaigh/wizard555/master/Stuarts%20rebuild/zips</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Install Add-ons from Mr-Smiths-Repo</summary>

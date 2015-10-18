@@ -1,4 +1,4 @@
-<?xml version="1.1" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 
 <addon id="repository.stuarts-repo" name="Stuarts rebuild-repo" version="2.0.0" provider-name="stuart">
@@ -17,4 +17,3 @@
 		<platform>all</platform>
 	</extension>
 
-<addon/>

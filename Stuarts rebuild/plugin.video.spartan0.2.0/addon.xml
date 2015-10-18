@@ -1,0 +1,21 @@
+<?xml version="1.1" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.spartan" name="Stuarts Rebuild Wizard" version="0.2.0" provider-name="stuart">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.simplejson" version="2.0.10"/>
+  </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+          
+
+<provides>program executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+		<summary lang="en">Stuarts Rebuild Wizard</summary>
+		<description lang="en">In this wizard you will find the latest Stuarts Rebuild build v3</description>
+		<disclaimer lang="en">Updates included are the following: this is the final look for this build. Add on update only after this</disclaimer>
+		<forum>http://spartanpixel.net/</forum>
+		<source>http://spartanpixel/net/</source>
+		<website>https://www.youtube.com/TechTimeruuu</website>
+		<platform>all</platform>
+	</extension>
+</addon>

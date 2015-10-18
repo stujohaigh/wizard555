@@ -8,7 +8,7 @@
 			<datadir zip="true">https://raw.githubusercontent.com/stujohaigh/wizard555/master/Stuarts%20rebuild/zips</datadir>
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
-		<import addon="script.module.simplejson" version="2.0.10"/>
+		
 	</requires>
 	<extension point="xbmc.python.script" library="default.py"/>
 	<extension point="xbmc.addon.metadata">
